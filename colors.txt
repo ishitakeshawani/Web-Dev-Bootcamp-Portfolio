@@ -1,0 +1,23 @@
+body color = #ffffff;
+
+navbar background = rgba(255, 255, 255, 0.4);
+
+navlink color = rgba(0, 0, 00, 0.7);
+
+brand color = #363636;
+
+home container  background =  #32a8c8;
+
+social icons color = #ffffff;
+
+social icons hover color =  #000;
+
+btn border color = #ffffff;
+
+btn outline light color = #ffffff;
+border = #ffffff;
+
+
+hover color = #212529;
+background color = #f8f9fa;
+
